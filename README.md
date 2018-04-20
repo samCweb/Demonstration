@@ -2,4 +2,6 @@
 
 bonjour la demo
 
-<h1> pete sa mere </h1>
+<h1> N'oubliez pas les paroles </h1>
+<h2> 2 mots à trouver </h2>
+<p> C'est la, c'est la, Salsa ........ </p>
